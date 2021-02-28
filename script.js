@@ -127,5 +127,21 @@ $.getJSON("src/sanitetsstation.geojson", function (data){
   controlLayers.addOverlay(geoJsonLayer, 'Sanitet')
 });
 
+$.getJSON("src/AUTOCAMPER_KORTET.geojson", function (data){
+  //var iconStyle = L.icon({
+    //iconUrl: "src/Camperservice.png",
+    //iconRetinaUrl: 'src/hospital-18@2x.png',
+    ((iconSize: [18, 18]
+  //});
+  var geoJsonLayer = L.geoJson(data, {
+    pointToLayer: function( feature, latlng) {
+      var marker = L.marker(latlng,{icon: iconStyle});
+      marker.bindPopup(feature.properties.Location); // replace 'Location' with properties data label from your GeoJSON file
+      return marker;
+    }
+  }); // insert ".addTo(map)" to display layer by default
+  controlLayers.addOverlay(geoJsonLayer, 'Autocamper Kortet');
+  //controlLayers.addOverlay(geoJsonLayer, 'Sanitet')
+});
 
 
