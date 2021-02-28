@@ -1,3 +1,3 @@
 # OpenCamperMap
 
-Work is in progress
+Work is in progress.
