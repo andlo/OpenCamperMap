@@ -1,17 +1,10 @@
 {
     "type": "FeatureCollection",
-    "name": "Waypoints",
-    "crs": {
-        "type": "name",
-        "properties": {
-            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-        }
-    },
     "features": [
         {
             "type": "Feature",
             "properties": {
-                "Name": "Allinge Cirkel K",
+                "Location": "Allinge Cirkel K",
                 "description": "2020: tømning toilet og gråvand. Frisk vand På bagsiden af bygningen.",
                 "tessellate": -1,
                 "extrude": 0,
@@ -29,7 +22,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Rønne Renseanlæg",
+                "Location": "Rønne Renseanlæg",
                 "description": "gratis tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -47,7 +40,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Bagenkop Havn",
+                "Location": "Bagenkop Havn",
                 "description": "2020: overnatning kr 130,- inkl el, bad, WIFI tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -65,7 +58,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Lohals Havn",
+                "Location": "Lohals Havn",
                 "description": "2020: overnatning kr 135,- inkl el tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -83,7 +76,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Tårs Lystbådehavn",
+                "Location": "Tårs Lystbådehavn",
                 "description": "2020 : overnatning kr 125,- tømning af gråvand og kassette",
                 "tessellate": -1,
                 "extrude": 0,
@@ -101,7 +94,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Sakskøbing Lystbådehavn",
+                "Location": "Sakskøbing Lystbådehavn",
                 "description": "2020: overnatning kr 125,- inkl wifi tømning af toilet ( og gråvand ? )",
                 "tessellate": -1,
                 "extrude": 0,
@@ -119,7 +112,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Gedser Lystbådehavn",
+                "Location": "Gedser Lystbådehavn",
                 "description": "2020: overnatning stellplads kr 135,- inkl strøm tømning af kassette og gråvand.",
                 "tessellate": -1,
                 "extrude": 0,
@@ -137,7 +130,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Eskilstrup E47",
+                "Location": "Eskilstrup E47",
                 "description": "tømning af toilet og grå. Nordgående retning.",
                 "tessellate": -1,
                 "extrude": 0,
@@ -155,7 +148,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Nørre Alslev Transportcenter afk 43",
+                "Location": "Nørre Alslev Transportcenter afk 43",
                 "description": "tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -173,7 +166,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Farø P plads",
+                "Location": "Farø P plads",
                 "description": "tømning af gråvand og kassette",
                 "tessellate": -1,
                 "extrude": 0,
@@ -191,7 +184,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Kalvehave Havn",
+                "Location": "Kalvehave Havn",
                 "description": "2020 : pris overnatningkr 170,- tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -209,7 +202,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Tappernøje øst E47",
+                "Location": "Tappernøje øst E47",
                 "description": "AutocamperService",
                 "tessellate": -1,
                 "extrude": 0,
@@ -227,7 +220,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Karrebæksminde",
+                "Location": "Karrebæksminde",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -245,7 +238,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Rødvig Havn",
+                "Location": "Rødvig Havn",
                 "description": "2020: pris overnatning kr 120,- inkl bad \/ toilet. Tømning af toilet og gråvand over riste.",
                 "tessellate": -1,
                 "extrude": 0,
@@ -263,7 +256,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Skælskør Havn",
+                "Location": "Skælskør Havn",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -281,7 +274,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Piberhus Vest",
+                "Location": "Piberhus Vest",
                 "description": "Autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -299,7 +292,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Korsør Lystbådehavn",
+                "Location": "Korsør Lystbådehavn",
                 "description": "2020: overnatning kr 160,- inkl strøm og wifi tømning af gråvand og kassette",
                 "tessellate": -1,
                 "extrude": 0,
@@ -317,7 +310,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Halsskov Storebæltvej 44",
+                "Location": "Halsskov Storebæltvej 44",
                 "description": "tømning af toilet og gråvand v\/Uno-X",
                 "tessellate": -1,
                 "extrude": 0,
@@ -335,7 +328,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Storebælt Korsør syd",
+                "Location": "Storebælt Korsør syd",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -353,7 +346,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Tuelsø Syd E20",
+                "Location": "Tuelsø Syd E20",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -371,7 +364,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Tuelsø nord E20",
+                "Location": "Tuelsø nord E20",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -389,7 +382,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Karlslunde øst E20",
+                "Location": "Karlslunde øst E20",
                 "description": "Autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -407,7 +400,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Karlslunde Vest E20",
+                "Location": "Karlslunde Vest E20",
                 "description": "Autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -425,7 +418,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Ishøj Strand Camping",
+                "Location": "Ishøj Strand Camping",
                 "description": "2020: tømning kr 50,- vand 50,- u\/overnatning Overnatning kr 250,- inkl bad\/toilet, tillæg strøm",
                 "tessellate": -1,
                 "extrude": 0,
@@ -443,7 +436,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Farum Rensningsanlæg",
+                "Location": "Farum Rensningsanlæg",
                 "description": "Gratis tømning af toilet og gråvand. Adgang i åbningstiden. Sommervej 20 Farum",
                 "tessellate": -1,
                 "extrude": 0,
@@ -461,7 +454,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Frederikssund Lystbådehavn",
+                "Location": "Frederikssund Lystbådehavn",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -479,7 +472,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Lynæs Havn",
+                "Location": "Lynæs Havn",
                 "description": "2020: pris kr 165,- mellem kl 16 og kl 08. gratis tømning af toilet og gråvand og frisk vand.",
                 "tessellate": -1,
                 "extrude": 0,
@@ -497,7 +490,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Nykøbing Sjælland Lystbådehavn",
+                "Location": "Nykøbing Sjælland Lystbådehavn",
                 "description": "2020: Pris kr 150,- overnatning tømning af gråvand og kassette",
                 "tessellate": -1,
                 "extrude": 0,
@@ -515,7 +508,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Sjællands Odde Havn",
+                "Location": "Sjællands Odde Havn",
                 "description": "2020: pris overnatning kr 150,- tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -533,7 +526,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Hjejlevej E20 #44 Nyborg",
+                "Location": "Hjejlevej E20 #44 Nyborg",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -551,7 +544,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Kerteminde Havn",
+                "Location": "Kerteminde Havn",
                 "description": "2020: overnatning kr 140,- inkl strøm og wifi tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -569,7 +562,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Bogense Havn",
+                "Location": "Bogense Havn",
                 "description": "2020: overnatning kr 170,- inkl strøm og wifi tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -587,7 +580,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Kildebjerg N E20",
+                "Location": "Kildebjerg N E20",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -605,7 +598,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Kildebjerg syd E20",
+                "Location": "Kildebjerg syd E20",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -623,7 +616,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Lillebælt Syd E20",
+                "Location": "Lillebælt Syd E20",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -641,7 +634,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Lillebælt N E20",
+                "Location": "Lillebælt N E20",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -659,7 +652,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Strib Havn",
+                "Location": "Strib Havn",
                 "description": "2020 : overnatning kr 150,- inkl strøm tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -677,7 +670,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Svendborg Havn",
+                "Location": "Svendborg Havn",
                 "description": "2020: tømning af toilet. Gråvand ? Vand ?",
                 "tessellate": -1,
                 "extrude": 0,
@@ -695,7 +688,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Svendborg Svømmehal",
+                "Location": "Svendborg Svømmehal",
                 "description": "tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -713,7 +706,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Fåborg Havn",
+                "Location": "Fåborg Havn",
                 "description": "2020: kr 145,- inkl wifi tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -731,7 +724,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Falsled Lystbådehavn",
+                "Location": "Falsled Lystbådehavn",
                 "description": "2020: overnatning kr 125,- kun med kort tømning af toilet, ikke rist til gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -749,7 +742,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Assens Marina",
+                "Location": "Assens Marina",
                 "description": "2020: overnatning kr 150,- inkl strøm og wifi tømning af toilet",
                 "tessellate": -1,
                 "extrude": 0,
@@ -767,7 +760,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Søby Ærø Camping",
+                "Location": "Søby Ærø Camping",
                 "description": "2020: tømning m\/ vand kr 30,- u\/overnatning Overnatning kr 200 i lav, kr 300 i højsæson.",
                 "tessellate": -1,
                 "extrude": 0,
@@ -785,7 +778,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Augustenborg",
+                "Location": "Augustenborg",
                 "description": "ømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -803,7 +796,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Kegnæs Syd Als",
+                "Location": "Kegnæs Syd Als",
                 "description": "Gratis tømning af toilet. P max 5 tim.",
                 "tessellate": -1,
                 "extrude": 0,
@@ -821,7 +814,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Nordborg Camperplads",
+                "Location": "Nordborg Camperplads",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -839,7 +832,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Frøslev Øst E45",
+                "Location": "Frøslev Øst E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -857,7 +850,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Frøslev Vest E45",
+                "Location": "Frøslev Vest E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -875,7 +868,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "OK Truck Padborg",
+                "Location": "OK Truck Padborg",
                 "description": "Gratis tømning af toilet og gråvand Ingen parkering.",
                 "tessellate": -1,
                 "extrude": 0,
@@ -893,7 +886,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Tønder Stellplads",
+                "Location": "Tønder Stellplads",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -911,7 +904,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Løgumkloster",
+                "Location": "Løgumkloster",
                 "description": "Tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -929,7 +922,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Årslev Øst E45",
+                "Location": "Årslev Øst E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -947,7 +940,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Camperstop Åbenrå",
+                "Location": "Camperstop Åbenrå",
                 "description": "2020: tømning inkl vand kr 75,- Overnatning kr 100,- pr 24 tim + strøm og bad.",
                 "tessellate": -1,
                 "extrude": 0,
@@ -965,7 +958,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Aabenraa autocamperplads",
+                "Location": "Aabenraa autocamperplads",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -983,7 +976,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Rømø",
+                "Location": "Rømø",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1001,7 +994,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Ustrup Øst E45",
+                "Location": "Ustrup Øst E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1019,7 +1012,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Ustrup Vest E45",
+                "Location": "Ustrup Vest E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1037,7 +1030,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Haderslev Havn",
+                "Location": "Haderslev Havn",
                 "description": "2020: overnatning kr 130,- inkl wifI tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1055,7 +1048,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Gram Slot",
+                "Location": "Gram Slot",
                 "description": "2020: overnatn kr 80,- inkl vand wifi, evt strøm tømning af toilet og gråvand , adg til toilet \/ bad",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1073,7 +1066,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Ribe Syd stellplads",
+                "Location": "Ribe Syd stellplads",
                 "description": "Gratis tømning af toilet og gråvand. Fri parkering af AC - også lange vogne.",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1091,7 +1084,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Storkesøen Ribe",
+                "Location": "Storkesøen Ribe",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1109,7 +1102,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "FB Campcenter Skodborg",
+                "Location": "FB Campcenter Skodborg",
                 "description": "tømning af gråvand og kassette, frisk vand<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1127,7 +1120,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Kolding Lystbådehavn",
+                "Location": "Kolding Lystbådehavn",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1145,7 +1138,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Hylkedal Øst E45",
+                "Location": "Hylkedal Øst E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1163,7 +1156,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Hylkedal Vest E45",
+                "Location": "Hylkedal Vest E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1181,7 +1174,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Harte Syd E20",
+                "Location": "Harte Syd E20",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1199,7 +1192,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Harte Nord E20",
+                "Location": "Harte Nord E20",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1217,7 +1210,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Bjøvlund Syd E20",
+                "Location": "Bjøvlund Syd E20",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1235,7 +1228,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Bjøvlund Nord E20",
+                "Location": "Bjøvlund Nord E20",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1253,7 +1246,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Bramming N -rute 11-",
+                "Location": "Bramming N -rute 11-",
                 "description": "gratis tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1271,7 +1264,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Oksbøl -rute431-",
+                "Location": "Oksbøl -rute431-",
                 "description": "autocamperservice   tømning af toilet og gråvand Blåvandvej kun indkørsel fra vest",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1289,7 +1282,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Fredericia Lystbådehavn",
+                "Location": "Fredericia Lystbådehavn",
                 "description": "2020: overnatning kr 125,- inkl wifi tømning af toilet ( ikke gråvand )",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1307,7 +1300,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Skærup Øst E45",
+                "Location": "Skærup Øst E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1325,7 +1318,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Skærup Vest E45",
+                "Location": "Skærup Vest E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1343,7 +1336,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Vejle Elektro",
+                "Location": "Vejle Elektro",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1361,7 +1354,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Outrup Camperplads",
+                "Location": "Outrup Camperplads",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1379,7 +1372,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Kløvergården Put and Take",
+                "Location": "Kløvergården Put and Take",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1397,7 +1390,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Hærvejen Nord -18 -",
+                "Location": "Hærvejen Nord -18 -",
                 "description": "autocamperservice    tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1415,7 +1408,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Horsens Lystbådehavn",
+                "Location": "Horsens Lystbådehavn",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1433,7 +1426,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Stauning Havn",
+                "Location": "Stauning Havn",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1451,7 +1444,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Ringkøbing Lystbådehavn",
+                "Location": "Ringkøbing Lystbådehavn",
                 "description": "2020: natophold 21-09 kr 150,- ellers gratis tømning af toilet og gråvand, ekstra for vand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1469,7 +1462,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Søby Øst -18 -",
+                "Location": "Søby Øst -18 -",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1487,7 +1480,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "øby Vest -18-",
+                "Location": "øby Vest -18-",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1505,7 +1498,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Cafeteria Kroen Hampen",
+                "Location": "Cafeteria Kroen Hampen",
                 "description": "2020: overnatning kr 50,- inkl strøm og toilet tømning af toilet",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1523,7 +1516,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Hou Havn",
+                "Location": "Hou Havn",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1541,7 +1534,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Ejer Bavnehøj Øst E45",
+                "Location": "Ejer Bavnehøj Øst E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1559,7 +1552,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Ejer Bavnehøj Vest E45",
+                "Location": "Ejer Bavnehøj Vest E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1577,7 +1570,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Rønkilde Syd",
+                "Location": "Rønkilde Syd",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1595,7 +1588,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Rønkilde Nord - 15 -",
+                "Location": "Rønkilde Nord - 15 -",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1613,7 +1606,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Hærvejen Syd -18 -",
+                "Location": "Hærvejen Syd -18 -",
                 "description": "autocamperservice    tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1631,7 +1624,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Kalbygård Skov S - 15 -",
+                "Location": "Kalbygård Skov S - 15 -",
                 "description": "Autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1649,7 +1642,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Kalby Skov N -rute15-",
+                "Location": "Kalby Skov N -rute15-",
                 "description": "Autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1667,7 +1660,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Blankhøj øst E45",
+                "Location": "Blankhøj øst E45",
                 "description": "Autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1685,7 +1678,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Pedersminde vest E45",
+                "Location": "Pedersminde vest E45",
                 "description": "Autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1703,7 +1696,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Egå Marina",
+                "Location": "Egå Marina",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1721,7 +1714,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Kaløvig Bådelaug",
+                "Location": "Kaløvig Bådelaug",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1739,7 +1732,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Nappedam Lystbådehavn",
+                "Location": "Nappedam Lystbådehavn",
                 "description": "2020: pris overnatning kr 150,- tømning af kassette",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1757,7 +1750,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Ebeltoft Skudehavn",
+                "Location": "Ebeltoft Skudehavn",
                 "description": "2020: overnatnink kr 180,- inkl vand og tømning tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1775,7 +1768,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Grenå Marina",
+                "Location": "Grenå Marina",
                 "description": "2020: overnatning kr 165,- inkl el tømning af kassette og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1793,7 +1786,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Mejrup Rast -rute 18 \/ 16-",
+                "Location": "Mejrup Rast -rute 18 \/ 16-",
                 "description": "Tømning af toilet og gråvand.",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1811,7 +1804,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Lemvig Camping",
+                "Location": "Lemvig Camping",
                 "description": "2020: pit-stop kr 100,- inkl tømning af toilet, tillæg for friskvand og tømning af grå kr 35",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1829,7 +1822,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Struer Sejlklub",
+                "Location": "Struer Sejlklub",
                 "description": "2020: pris overnatning kr 152,- inkl el og WIFI tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1847,7 +1840,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Hanbjerg Marina",
+                "Location": "Hanbjerg Marina",
                 "description": "2020: tømning og friskvand Dkr 55,- u\/overnatn, overnatning Dkr 150,- Tillæg strøm Mobilpay",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1865,7 +1858,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Gyldendal Lystbådehavn",
+                "Location": "Gyldendal Lystbådehavn",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1883,7 +1876,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Skive Havn",
+                "Location": "Skive Havn",
                 "description": "Tømning af kassette.",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1901,7 +1894,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Humlum Fiskerleje & Camping",
+                "Location": "Humlum Fiskerleje & Camping",
                 "description": "2020 -tømning incl vand u\/overnatning 50,-kr., Udenfor bom kr. 100,- incl bad, tømning og vand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1919,7 +1912,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Lund Camperplads",
+                "Location": "Lund Camperplads",
                 "description": "2020: overnatning kr 50,- tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1937,7 +1930,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Virksund Camping",
+                "Location": "Virksund Camping",
                 "description": "2020 : tømning koster 10 tim, vand kr 40,- Overnatningspris pr tim: hverd kr 3,75, w.kr 7,50",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1955,7 +1948,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Hvalpsund Marina",
+                "Location": "Hvalpsund Marina",
                 "description": "2020: overnatning kr 115,- tømning af toilet",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1973,7 +1966,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Løgstør Havn",
+                "Location": "Løgstør Havn",
                 "description": "2020: overnatning kr 135,- inkl strøm vand WIFI tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -1991,7 +1984,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Nibe Sejlklub",
+                "Location": "Nibe Sejlklub",
                 "description": "2020: overnatning kr 130,- tillæg el kr 20,- tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2009,7 +2002,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Dall Vest E45",
+                "Location": "Dall Vest E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2027,7 +2020,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Rast Limfjorden Ø E45",
+                "Location": "Rast Limfjorden Ø E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2045,7 +2038,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Himmerland Vest E45",
+                "Location": "Himmerland Vest E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2063,7 +2056,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Himmerland Øst",
+                "Location": "Himmerland Øst",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2081,7 +2074,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Øster Hurup Havn",
+                "Location": "Øster Hurup Havn",
                 "description": "2020: overnat kr 150,- inkl strøm, bad og wifi tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2099,7 +2092,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Hadsund Lystbådehavn",
+                "Location": "Hadsund Lystbådehavn",
                 "description": "2020: pris overnatnijng kr 150,- tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2117,7 +2110,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Kongsdal Lystbådehavn",
+                "Location": "Kongsdal Lystbådehavn",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2135,7 +2128,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Mariager Camping",
+                "Location": "Mariager Camping",
                 "description": "2020: tømning inkl vand pris 75,- u\/overnatn. Overnatning kr 120,- inkl alt.",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2153,7 +2146,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Sillerslev Marina",
+                "Location": "Sillerslev Marina",
                 "description": "2020: gratis overnatning, cafeteria sommeråben tømning af gråvand og kassette + off. toilet",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2171,7 +2164,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Nykøbing Mors Havn",
+                "Location": "Nykøbing Mors Havn",
                 "description": "2020: overnatning kr 130,- inkl wifi tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2189,7 +2182,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Kelds Køreskole Nyk M",
+                "Location": "Kelds Køreskole Nyk M",
                 "description": "2020: Gratis overnatning på stedet. Tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2207,7 +2200,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Ejerslev Havn",
+                "Location": "Ejerslev Havn",
                 "description": "2020: pris overnatning kr 120,- Tømning af gråvand og kassette",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2225,7 +2218,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Hanstholm Circle K",
+                "Location": "Hanstholm Circle K",
                 "description": "autocamperservice       tømning af toilet og gråvand gratis",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2243,7 +2236,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Amtoft Minicamp\/Havn",
+                "Location": "Amtoft Minicamp\/Havn",
                 "description": "2020: Overnatning inkl tømning\/vand Kr 100,-",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2261,7 +2254,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Lønstrup Camping Møllebakken",
+                "Location": "Lønstrup Camping Møllebakken",
                 "description": "2020: tømning m\/vand kr 40,- uden overnatning Overnatning kr 150,- , højsæson +50,-",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2279,7 +2272,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Hirtshals Transport Center",
+                "Location": "Hirtshals Transport Center",
                 "description": "autocamperservice   tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2297,7 +2290,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Vildmose Vest E39",
+                "Location": "Vildmose Vest E39",
                 "description": "autocamperservice     tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2315,7 +2308,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Vildmose Øst E39",
+                "Location": "Vildmose Øst E39",
                 "description": "autocamperservice     tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2333,7 +2326,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Brønderslev",
+                "Location": "Brønderslev",
                 "description": "tømning af toilet og grå , frisk vand. gratis overnatning for AC tæt ved centrum",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2351,7 +2344,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Vendelbo vans, Tårs",
+                "Location": "Vendelbo vans, Tårs",
                 "description": "2020: overnatning kr 75,- tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2369,7 +2362,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Asaa Havn",
+                "Location": "Asaa Havn",
                 "description": "2020: pris overnatning kr 120,- tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2387,7 +2380,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Hjallerup Enge V E45",
+                "Location": "Hjallerup Enge V E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2405,7 +2398,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Hjallerup Øst E45",
+                "Location": "Hjallerup Øst E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2423,7 +2416,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Flauenskjold",
+                "Location": "Flauenskjold",
                 "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2441,7 +2434,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Trafikcenter Sæby",
+                "Location": "Trafikcenter Sæby",
                 "description": "autocamperservice   tømning af toilet og gråvand v\/ Circle K",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2459,7 +2452,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Øksenhede Øst E45",
+                "Location": "Øksenhede Øst E45",
                 "description": "tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2477,7 +2470,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Frederikshavn Marina",
+                "Location": "Frederikshavn Marina",
                 "description": "2020: overnatn kr 160,- inkl bad, toilet og wifi tømning af toilet og gråvand",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2495,7 +2488,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Ålbæk Havn",
+                "Location": "Ålbæk Havn",
                 "description": "2020: overnat kr 190,- inkl bad og WIFI. Tømning af toilet og gråvand ",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2513,7 +2506,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Thyborøn Camping",
+                "Location": "Thyborøn Camping",
                 "description": "2020 ; overnatning kr 75 \/ 175,- udenfor \/ indf tømning u\/overnatning inkl vand kr 35,- ",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2531,7 +2524,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Udbyhøj Lystbådehavn",
+                "Location": "Udbyhøj Lystbådehavn",
                 "description": "2020: pris overnatning kr 165,- inkl WIFI tømning af kassette ( og måske gråvand ) ",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2549,7 +2542,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Mellerup Havn",
+                "Location": "Mellerup Havn",
                 "description": "2020: pris overnat kr 130,- inkl vand og WIFI tømning af toilet  ",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2567,7 +2560,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Gudenå Vest E45",
+                "Location": "Gudenå Vest E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2585,7 +2578,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Gudenå Øst E45",
+                "Location": "Gudenå Øst E45",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2603,7 +2596,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Tappernøje vest E47",
+                "Location": "Tappernøje vest E47",
                 "description": "Service",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2621,7 +2614,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Kongsted Nord E20",
+                "Location": "Kongsted Nord E20",
                 "description": "autocamperservice",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2639,7 +2632,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Tinglev",
+                "Location": "Tinglev",
                 "description": "LPG - Becks Autoservice ",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2657,7 +2650,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Rømø",
+                "Location": "Rømø",
                 "description": "LPG - Rømø Auto Service ",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2675,7 +2668,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Jels",
+                "Location": "Jels",
                 "description": "LPG - NBC Uno-X ",
                 "tessellate": -1,
                 "extrude": 0,
@@ -2693,7 +2686,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Name": "Middelfart",
+                "Location": "Middelfart",
                 "description": "LPG - Bonus Tank ",
                 "tessellate": -1,
                 "extrude": 0,
