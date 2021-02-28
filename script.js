@@ -42,12 +42,6 @@ map.on('click', function(e) {
 // use common baselayers below, delete, or add more with plain JavaScript from http://leaflet-extras.github.io/leaflet-providers/preview/
 // .addTo(map); -- suffix displays baselayer by default
 // controlLayers.addBaseLayer (variableName, 'label'); -- adds baselayer and label to legend; omit if only one baselayer with no toggle desired
-var lightAll = new L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-	subdomains: 'abcd',
-	maxZoom: 19
-}).addTo(map); // adds layer by default
-controlLayers.addBaseLayer(lightAll, 'CartoDB LightAll');
 
 var ocm = new L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
   maxZoom: 18,
@@ -60,38 +54,6 @@ var ocm = new L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{
 controlLayers.addBaseLayer(ocm, 'OpenCamperMap');
 
 
-// Esri satellite map from http://leaflet-extras.github.io/leaflet-providers/preview/
-// OR use esri-leaflet plugin and esri basemap name https://esri.github.io/esri-leaflet/examples/switching-basemaps.html
-var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-   attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
-});
-controlLayers.addBaseLayer(Esri_WorldImagery, 'Esri World Imagery');
-
-// tileLayer.WMS as a baselayer - see http://leafletjs.com/reference.html#tilelayer-wms
-// UConn MAGIC WMS settings (currently http, not https) - see http://geoserver.lib.uconn.edu:8080/geoserver/web/?wicket:bookmarkablePage=:org.geoserver.web.demo.MapPreviewPage
-var aerial1934 = new L.tileLayer.wms("http://geoserver.lib.uconn.edu:8080/geoserver/MAGIC/wms?", {
-  layers: 'MAGIC:1934 Connecticut Aerial Photography',
-  attribution: '1934 <a href="http://magic.library.uconn.edu">MAGIC UConn</a> and <a href="http://cslib.org">CSL</a>'
-});
-controlLayers.addBaseLayer(aerial1934, 'CT Aerial 1934');
-
-// tileLayer.WMS as a baselayer - see http://leafletjs.com/reference.html#tilelayer-wms
-// UConn MAGIC WMS settings (currently http, not https) - see http://geoserver.lib.uconn.edu:8080/geoserver/web/?wicket:bookmarkablePage=:org.geoserver.web.demo.MapPreviewPage
-var hartfordCounty1855 = new L.tileLayer.wms("http://geoserver.lib.uconn.edu:8080/geoserver/MAGIC/wms?", {
-  layers: 'MAGIC:HartfordCounty_Woodford_1855',
-  attribution: '1855 <a href="http://magic.library.uconn.edu">MAGIC UConn</a>'
-});
-controlLayers.addBaseLayer(hartfordCounty1855, 'Hartford County 1855');
-
-var map1842wms = new L.tileLayer.wms("http://maps.nypl.org/warper/maps/wms/7363?", {
-  attribution: '1842 <a href="http://maps.nypl.org/warper/">NYPL Map Warper</a>'
-});
-controlLayers.addBaseLayer(map1842wms, '1842 NYPL WMS');
-
-var map1842tile = new L.tileLayer("http://mapwarper.net/maps/tile/14781/{z}/{x}/{y}.png", {
-  attribution: '1842 <a href="http://maps.nypl.org/warper/">NYPL Map Warper</a>'
-});
-controlLayers.addBaseLayer(map1842tile, '1842 NYPL Tile');
 
 function onLocationFound(e) {
   var radius = e.accuracy / 2;
