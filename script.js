@@ -70,7 +70,7 @@ function onLocationError(e) {
 map.on('locationfound', onLocationFound);
 map.on('locationerror', onLocationError);
 
-map.locate({setView: true, maxZoom: 1});
+map.locate({setView: true, maxZoom: 10});
 
 
 /* POINT OVERLAYS */
@@ -127,12 +127,9 @@ $.getJSON("src/sanitetsstation.geojson", function (data){
   controlLayers.addOverlay(geoJsonLayer, 'Sanitet')
 });
 
+
+
 $.getJSON("src/AUTOCAMPER_KORTET.geojson", function (data){
-  //var iconStyle = L.icon({
-    //iconUrl: "src/Camperservice.png",
-    //iconRetinaUrl: 'src/hospital-18@2x.png',
-    ((iconSize: [18, 18]
-  //});
   var geoJsonLayer = L.geoJson(data, {
     pointToLayer: function( feature, latlng) {
       var marker = L.marker(latlng,{icon: iconStyle});
@@ -140,8 +137,8 @@ $.getJSON("src/AUTOCAMPER_KORTET.geojson", function (data){
       return marker;
     }
   }); // insert ".addTo(map)" to display layer by default
-  controlLayers.addOverlay(geoJsonLayer, 'Autocamper Kortet');
-  //controlLayers.addOverlay(geoJsonLayer, 'Sanitet')
+  //controlLayers.addOverlay(geoJsonLayer, 'Sanitet');
+  controlLayers.addOverlay(geoJsonLayer, 'Autocamperkortet')
 });
 
 
