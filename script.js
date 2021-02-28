@@ -51,7 +51,7 @@ var ocm = new L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{
   tileSize: 512,
   zoomOffset: -1
 }).addTo(map);// adds layer by default
-controlLayers.addBaseLayer(ocm, 'OpenCamperMap');
+//controlLayers.addBaseLayer(ocm, 'OpenCamperMap');
 
 
 
