@@ -70,7 +70,7 @@ function onLocationError(e) {
 map.on('locationfound', onLocationFound);
 map.on('locationerror', onLocationError);
 
-map.locate({setView: true, maxZoom: 160});
+map.locate({setView: true, maxZoom: 1});
 
 
 /* POINT OVERLAYS */
