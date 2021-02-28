@@ -93,26 +93,6 @@ L.marker([41.7646, -72.6823], {icon: starIcon}).addTo(map);
 // insert controlLayers.addOverlay(geoJsonLayer, 'InsertYourTitle') to add to legend
 
 
-// load GeoJSON point data and clickable circles from local directory
-$.getJSON("src/points.geojson", function (data){
-  var geoJsonLayer = L.geoJson(data, {
-    pointToLayer: function( feature, latlng) {
-      var circle = L.circleMarker(latlng, {
-        radius: 8,
-        fillColor: "#ccccff",
-        color: "#0000cc",
-        weight: 2,
-        opacity: 1,
-        fillOpacity: 0.7
-      });
-      circle.bindPopup(feature.properties.Location); // replace 'Location' with properties data label from your GeoJSON file
-      return circle;
-    }
-  }); // insert ".addTo(map)" to display layer by default
-  controlLayers.addOverlay(geoJsonLayer, 'Circles');
-});
-
-
 // load GeoJSON point data and clickable icons from local directory, using jQuery function (symbolized by $)
 //$.getJSON("src/points.geojson", function (data){
 //  var iconStyle = L.icon({
@@ -132,7 +112,7 @@ $.getJSON("src/points.geojson", function (data){
 
 $.getJSON("src/sanitetsstation.geojson", function (data){
   var iconStyle = L.icon({
-    iconUrl: "src/hospital-18.png",
+    iconUrl: "src/Camperservice.bmp",
     iconRetinaUrl: 'src/hospital-18@2x.png',
     iconSize: [18, 18]
   });
