@@ -112,7 +112,7 @@ L.marker([41.7646, -72.6823], {icon: starIcon}).addTo(map);
 
 $.getJSON("src/sanitetsstation.geojson", function (data){
   var iconStyle = L.icon({
-    iconUrl: "src/Camperservice.bmp",
+    iconUrl: "src/Camperservice.png",
     iconRetinaUrl: 'src/hospital-18@2x.png',
     iconSize: [18, 18]
   });
