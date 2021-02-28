@@ -2,12 +2,13 @@
 // See Leaflet tutorial links in README.md
 
 // set up the map center and zoom level
-var map = L.map('map', {
-  center: [41.76, -72.67], // [41.5, -72.7] for Connecticut; [41.76, -72.67] for Hartford county or city
-  zoom: 9, // zoom 9 for Connecticut; 10 for Hartford county, 12 for Hartford city
-  zoomControl: false, // add later to reposition
-  scrollWheelZoom: false
-});
+//var map = L.map('map', {
+//  center: [41.76, -72.67], // [41.5, -72.7] for Connecticut; [41.76, -72.67] for Hartford county or city
+//  zoom: 9, // zoom 9 for Connecticut; 10 for Hartford county, 12 for Hartford city
+//  zoomControl: false, // add later to reposition
+//  scrollWheelZoom: false
+//});
+var map = L.map('map').fitWorld();
 
 // optional : customize link to view source code; add your own GitHub repository
 map.attributionControl
