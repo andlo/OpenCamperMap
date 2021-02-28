@@ -53,8 +53,7 @@ var ocm = new L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{
 }).addTo(map);// adds layer by default
 //controlLayers.addBaseLayer(ocm, 'OpenCamperMap');
 
-
-
+// Get location and center map
 function onLocationFound(e) {
   var radius = e.accuracy / 2;
 

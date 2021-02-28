@@ -1,0 +1,2712 @@
+{
+    "type": "FeatureCollection",
+    "name": "Waypoints",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Allinge Cirkel K",
+                "description": "2020: tømning toilet og gråvand. Frisk vand På bagsiden af bygningen.",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.79922,
+                    55.27166,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Rønne Renseanlæg",
+                "description": "gratis tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.68958,
+                    55.10305,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bagenkop Havn",
+                "description": "2020: overnatning kr 130,- inkl el, bad, WIFI tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6758,
+                    54.75166,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lohals Havn",
+                "description": "2020: overnatning kr 135,- inkl el tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.90227,
+                    55.13513,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tårs Lystbådehavn",
+                "description": "2020 : overnatning kr 125,- tømning af gråvand og kassette",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.02366,
+                    54.87827,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sakskøbing Lystbådehavn",
+                "description": "2020: overnatning kr 125,- inkl wifi tømning af toilet ( og gråvand ? )",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.62069,
+                    54.81072,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gedser Lystbådehavn",
+                "description": "2020: overnatning stellplads kr 135,- inkl strøm tømning af kassette og gråvand.",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.92326,
+                    54.58037,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Eskilstrup E47",
+                "description": "tømning af toilet og grå. Nordgående retning.",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.82088,
+                    54.84069,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Nørre Alslev Transportcenter afk 43",
+                "description": "tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.89822,
+                    54.9,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Farø P plads",
+                "description": "tømning af gråvand og kassette",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.98522,
+                    54.94958,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kalvehave Havn",
+                "description": "2020 : pris overnatningkr 170,- tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1661,
+                    54.99584,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tappernøje øst E47",
+                "description": "AutocamperService",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.95862,
+                    55.16645,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Karrebæksminde",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.65015,
+                    55.17703,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Rødvig Havn",
+                "description": "2020: pris overnatning kr 120,- inkl bad \/ toilet. Tømning af toilet og gråvand over riste.",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.37355,
+                    55.25447,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Skælskør Havn",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.29018,
+                    55.25274,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Piberhus Vest",
+                "description": "Autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.03495,
+                    55.32545,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Korsør Lystbådehavn",
+                "description": "2020: overnatning kr 160,- inkl strøm og wifi tømning af gråvand og kassette",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.13155,
+                    55.326,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Halsskov Storebæltvej 44",
+                "description": "tømning af toilet og gråvand v\/Uno-X",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.12598,
+                    55.35062,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Storebælt Korsør syd",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.10878,
+                    55.34835,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tuelsø Syd E20",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.59739,
+                    55.45575,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tuelsø nord E20",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.60617,
+                    55.45525,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Karlslunde øst E20",
+                "description": "Autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.231,
+                    55.56061,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Karlslunde Vest E20",
+                "description": "Autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.23014,
+                    55.56165,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ishøj Strand Camping",
+                "description": "2020: tømning kr 50,- vand 50,- u\/overnatning Overnatning kr 250,- inkl bad\/toilet, tillæg strøm",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.36975,
+                    55.61341,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Farum Rensningsanlæg",
+                "description": "Gratis tømning af toilet og gråvand. Adgang i åbningstiden. Sommervej 20 Farum",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.40752,
+                    55.81341,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Frederikssund Lystbådehavn",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.06408,
+                    55.82779,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lynæs Havn",
+                "description": "2020: pris kr 165,- mellem kl 16 og kl 08. gratis tømning af toilet og gråvand og frisk vand.",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.86369,
+                    55.94353,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Nykøbing Sjælland Lystbådehavn",
+                "description": "2020: Pris kr 150,- overnatning tømning af gråvand og kassette",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.67115,
+                    55.91493,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sjællands Odde Havn",
+                "description": "2020: pris overnatning kr 150,- tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.37138,
+                    55.97083,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hjejlevej E20 #44 Nyborg",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.84016,
+                    55.29752,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kerteminde Havn",
+                "description": "2020: overnatning kr 140,- inkl strøm og wifi tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.66442,
+                    55.45271,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bogense Havn",
+                "description": "2020: overnatning kr 170,- inkl strøm og wifi tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0785,
+                    55.56847,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kildebjerg N E20",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.18967,
+                    55.39456,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kildebjerg syd E20",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.18721,
+                    55.39401,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lillebælt Syd E20",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.87987,
+                    55.47785,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lillebælt N E20",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.84549,
+                    55.48764,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Strib Havn",
+                "description": "2020 : overnatning kr 150,- inkl strøm tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.76296,
+                    55.53798,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Svendborg Havn",
+                "description": "2020: tømning af toilet. Gråvand ? Vand ?",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.61775,
+                    55.06136,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Svendborg Svømmehal",
+                "description": "tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.57869,
+                    55.05697,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Fåborg Havn",
+                "description": "2020: kr 145,- inkl wifi tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.23338,
+                    55.09655,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Falsled Lystbådehavn",
+                "description": "2020: overnatning kr 125,- kun med kort tømning af toilet, ikke rist til gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.14621,
+                    55.15316,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Assens Marina",
+                "description": "2020: overnatning kr 150,- inkl strøm og wifi tømning af toilet",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.88399,
+                    55.26753,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Søby Ærø Camping",
+                "description": "2020: tømning m\/ vand kr 30,- u\/overnatning Overnatning kr 200 i lav, kr 300 i højsæson.",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.24477,
+                    54.93658,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Augustenborg",
+                "description": "ømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.85457,
+                    54.94684,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kegnæs Syd Als",
+                "description": "Gratis tømning af toilet. P max 5 tim.",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.99166,
+                    54.85497,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Nordborg Camperplads",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.86811,
+                    54.98159,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Frøslev Øst E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3301,
+                    54.82655,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Frøslev Vest E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.33306,
+                    54.8319,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "OK Truck Padborg",
+                "description": "Gratis tømning af toilet og gråvand Ingen parkering.",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.34116,
+                    54.83613,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tønder Stellplads",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.87494,
+                    54.93379,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Løgumkloster",
+                "description": "Tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.94898,
+                    55.06096,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Årslev Øst E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.36314,
+                    55.02176,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Camperstop Åbenrå",
+                "description": "2020: tømning inkl vand kr 75,- Overnatning kr 100,- pr 24 tim + strøm og bad.",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.41419,
+                    55.02472,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Aabenraa autocamperplads",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.42298,
+                    55.03372,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Rømø",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.54013,
+                    55.09324,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ustrup Øst E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3744,
+                    55.21566,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ustrup Vest E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.37305,
+                    55.21638,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Haderslev Havn",
+                "description": "2020: overnatning kr 130,- inkl wifI tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.49934,
+                    55.24742,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gram Slot",
+                "description": "2020: overnatn kr 80,- inkl vand wifi, evt strøm tømning af toilet og gråvand , adg til toilet \/ bad",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.05923,
+                    55.29738,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ribe Syd stellplads",
+                "description": "Gratis tømning af toilet og gråvand. Fri parkering af AC - også lange vogne.",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.75766,
+                    55.32491,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Storkesøen Ribe",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.75891,
+                    55.31665,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "FB Campcenter Skodborg",
+                "description": "tømning af gråvand og kassette, frisk vand<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.16057,
+                    55.42568,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kolding Lystbådehavn",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.49966,
+                    55.48739,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hylkedal Øst E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.42662,
+                    55.47529,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hylkedal Vest E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.42415,
+                    55.47564,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Harte Syd E20",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.39612,
+                    55.51227,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Harte Nord E20",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.39819,
+                    55.51394,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bjøvlund Syd E20",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.85188,
+                    55.51693,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bjøvlund Nord E20",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.84784,
+                    55.51881,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bramming N -rute 11-",
+                "description": "gratis tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.65023,
+                    55.47822,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Oksbøl -rute431-",
+                "description": "autocamperservice   tømning af toilet og gråvand Blåvandvej kun indkørsel fra vest",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.25258,
+                    55.61487,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Fredericia Lystbådehavn",
+                "description": "2020: overnatning kr 125,- inkl wifi tømning af toilet ( ikke gråvand )",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.72786,
+                    55.55244,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Skærup Øst E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.56196,
+                    55.64006,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Skærup Vest E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.55922,
+                    55.64251,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Vejle Elektro",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.56506,
+                    55.72264,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Outrup Camperplads",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.34665,
+                    55.71551,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kløvergården Put and Take",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.30269,
+                    55.76493,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hærvejen Nord -18 -",
+                "description": "autocamperservice    tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.39759,
+                    55.83693,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Horsens Lystbådehavn",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.87343,
+                    55.85754,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Stauning Havn",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.37285,
+                    55.95487,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ringkøbing Lystbådehavn",
+                "description": "2020: natophold 21-09 kr 150,- ellers gratis tømning af toilet og gråvand, ekstra for vand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.24072,
+                    56.08636,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Søby Øst -18 -",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0042,
+                    56.03992,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "øby Vest -18-",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.00106,
+                    56.03799,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cafeteria Kroen Hampen",
+                "description": "2020: overnatning kr 50,- inkl strøm og toilet tømning af toilet",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.37705,
+                    56.03041,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hou Havn",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.25713,
+                    55.91185,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ejer Bavnehøj Øst E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.86999,
+                    55.97725,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ejer Bavnehøj Vest E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.86571,
+                    55.97839,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Rønkilde Syd",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2981134,
+                    56.13321,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Rønkilde Nord - 15 -",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.29664,
+                    56.13597,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hærvejen Syd -18 -",
+                "description": "autocamperservice    tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.39578,
+                    55.83561,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kalbygård Skov S - 15 -",
+                "description": "Autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.76285,
+                    56.14796,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kalby Skov N -rute15-",
+                "description": "Autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.76513,
+                    56.1495,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Blankhøj øst E45",
+                "description": "Autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.06584,
+                    56.17558,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pedersminde vest E45",
+                "description": "Autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.06626,
+                    56.17857,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Egå Marina",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.28659,
+                    56.2096,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kaløvig Bådelaug",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.33937,
+                    56.2462,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Nappedam Lystbådehavn",
+                "description": "2020: pris overnatning kr 150,- tømning af kassette",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.49604,
+                    56.27758,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ebeltoft Skudehavn",
+                "description": "2020: overnatnink kr 180,- inkl vand og tømning tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.66986,
+                    56.18997,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Grenå Marina",
+                "description": "2020: overnatning kr 165,- inkl el tømning af kassette og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.92342,
+                    56.40533,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mejrup Rast -rute 18 \/ 16-",
+                "description": "Tømning af toilet og gråvand.",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.71844,
+                    56.36747,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lemvig Camping",
+                "description": "2020: pit-stop kr 100,- inkl tømning af toilet, tillæg for friskvand og tømning af grå kr 35",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.29422,
+                    56.56719,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Struer Sejlklub",
+                "description": "2020: pris overnatning kr 152,- inkl el og WIFI tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.59135,
+                    56.49312,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hanbjerg Marina",
+                "description": "2020: tømning og friskvand Dkr 55,- u\/overnatn, overnatning Dkr 150,- Tillæg strøm Mobilpay",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.71975,
+                    56.47911,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gyldendal Lystbådehavn",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.71186,
+                    56.58058,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Skive Havn",
+                "description": "Tømning af kassette.",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.05131,
+                    56.57641,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Humlum Fiskerleje & Camping",
+                "description": "2020 -tømning incl vand u\/overnatning 50,-kr., Udenfor bom kr. 100,- incl bad, tømning og vand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.57138,
+                    56.54666,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lund Camperplads",
+                "description": "2020: overnatning kr 50,- tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.24264,
+                    56.60437,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Virksund Camping",
+                "description": "2020 : tømning koster 10 tim, vand kr 40,- Overnatningspris pr tim: hverd kr 3,75, w.kr 7,50",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.28819,
+                    56.60794,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hvalpsund Marina",
+                "description": "2020: overnatning kr 115,- tømning af toilet",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.20217,
+                    56.70407,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Løgstør Havn",
+                "description": "2020: overnatning kr 135,- inkl strøm vand WIFI tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.24512,
+                    56.96728,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Nibe Sejlklub",
+                "description": "2020: overnatning kr 130,- tillæg el kr 20,- tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.63578,
+                    56.9879,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Dall Vest E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9003,
+                    56.9933,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Rast Limfjorden Ø E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.89981,
+                    56.99181,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Himmerland Vest E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.74048,
+                    56.84259,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Himmerland Øst",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.73773,
+                    56.83942,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Øster Hurup Havn",
+                "description": "2020: overnat kr 150,- inkl strøm, bad og wifi tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.28026,
+                    56.80516,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hadsund Lystbådehavn",
+                "description": "2020: pris overnatnijng kr 150,- tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.10424,
+                    56.7108,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kongsdal Lystbådehavn",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.07006,
+                    56.68367,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mariager Camping",
+                "description": "2020: tømning inkl vand pris 75,- u\/overnatn. Overnatning kr 120,- inkl alt.",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.97535,
+                    56.65424,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sillerslev Marina",
+                "description": "2020: gratis overnatning, cafeteria sommeråben tømning af gråvand og kassette + off. toilet",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.72939,
+                    56.6817,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Nykøbing Mors Havn",
+                "description": "2020: overnatning kr 130,- inkl wifi tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.86246,
+                    56.79354,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kelds Køreskole Nyk M",
+                "description": "2020: Gratis overnatning på stedet. Tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8475,
+                    56.7993,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ejerslev Havn",
+                "description": "2020: pris overnatning kr 120,- Tømning af gråvand og kassette",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.92081,
+                    56.9183,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hanstholm Circle K",
+                "description": "autocamperservice       tømning af toilet og gråvand gratis",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6286,
+                    57.11645,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Amtoft Minicamp\/Havn",
+                "description": "2020: Overnatning inkl tømning\/vand Kr 100,-",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.94061,
+                    57.00658,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lønstrup Camping Møllebakken",
+                "description": "2020: tømning m\/vand kr 40,- uden overnatning Overnatning kr 150,- , højsæson +50,-",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.80108,
+                    57.47377,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hirtshals Transport Center",
+                "description": "autocamperservice   tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.98489,
+                    57.57736,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Vildmose Vest E39",
+                "description": "autocamperservice     tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.93759,
+                    57.22259,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Vildmose Øst E39",
+                "description": "autocamperservice     tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.94116,
+                    57.22211,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Brønderslev",
+                "description": "tømning af toilet og grå , frisk vand. gratis overnatning for AC tæt ved centrum",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.95244,
+                    57.27483,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Vendelbo vans, Tårs",
+                "description": "2020: overnatning kr 75,- tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.11483,
+                    57.38969,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Asaa Havn",
+                "description": "2020: pris overnatning kr 120,- tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.42497,
+                    57.14491,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hjallerup Enge V E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.15736,
+                    57.15359,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hjallerup Øst E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.16114,
+                    57.15287,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Flauenskjold",
+                "description": "tømning af gråvand og kassette<br>Type<br>SaniService + Stellplatz",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.28436,
+                    57.24824,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Trafikcenter Sæby",
+                "description": "autocamperservice   tømning af toilet og gråvand v\/ Circle K",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.45026,
+                    57.31372,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Øksenhede Øst E45",
+                "description": "tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.45549,
+                    57.3435,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Frederikshavn Marina",
+                "description": "2020: overnatn kr 160,- inkl bad, toilet og wifi tømning af toilet og gråvand",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5278,
+                    57.42424,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ålbæk Havn",
+                "description": "2020: overnat kr 190,- inkl bad og WIFI. Tømning af toilet og gråvand ",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.42677,
+                    57.59316,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Thyborøn Camping",
+                "description": "2020 ; overnatning kr 75 \/ 175,- udenfor \/ indf tømning u\/overnatning inkl vand kr 35,- ",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.20511,
+                    56.69455,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Udbyhøj Lystbådehavn",
+                "description": "2020: pris overnatning kr 165,- inkl WIFI tømning af kassette ( og måske gråvand ) ",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.30575,
+                    56.61144,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mellerup Havn",
+                "description": "2020: pris overnat kr 130,- inkl vand og WIFI tømning af toilet  ",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.22151,
+                    56.52398,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gudenå Vest E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.99916,
+                    56.44993,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gudenå Øst E45",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.00173,
+                    56.44894,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tappernøje vest E47",
+                "description": "Service",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.95693,
+                    55.1685,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kongsted Nord E20",
+                "description": "autocamperservice",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.93422,
+                    55.45816,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tinglev",
+                "description": "LPG - Becks Autoservice ",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.23494,
+                    54.93072,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Rømø",
+                "description": "LPG - Rømø Auto Service ",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.55013,
+                    55.15205,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jels",
+                "description": "LPG - NBC Uno-X ",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.18747,
+                    55.3573,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Middelfart",
+                "description": "LPG - Bonus Tank ",
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.75919,
+                    55.49283,
+                    0.0
+                ]
+            }
+        }
+    ]
+}
