@@ -48,6 +48,17 @@ var lightAll = new L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/
 }).addTo(map); // adds layer by default
 controlLayers.addBaseLayer(lightAll, 'CartoDB LightAll');
 
+var ocm = new L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+  maxZoom: 18,
+  attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, ' +
+    'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+  id: 'mapbox/streets-v11',
+  tileSize: 512,
+  zoomOffset: -1
+}).addTo(map);// adds layer by default
+controlLayers.addBaseLayer(ocm, 'OpenCamperMap');
+
+
 // Esri satellite map from http://leaflet-extras.github.io/leaflet-providers/preview/
 // OR use esri-leaflet plugin and esri basemap name https://esri.github.io/esri-leaflet/examples/switching-basemaps.html
 var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
@@ -80,6 +91,25 @@ var map1842tile = new L.tileLayer("http://mapwarper.net/maps/tile/14781/{z}/{x}/
   attribution: '1842 <a href="http://maps.nypl.org/warper/">NYPL Map Warper</a>'
 });
 controlLayers.addBaseLayer(map1842tile, '1842 NYPL Tile');
+
+function onLocationFound(e) {
+  var radius = e.accuracy / 2;
+
+  L.marker(e.latlng).addTo(map)
+    .bindPopup("You are within " + radius + " meters from this point").openPopup();
+
+  L.circle(e.latlng, radius).addTo(map);
+}
+
+function onLocationError(e) {
+  alert(e.message);
+}
+
+map.on('locationfound', onLocationFound);
+map.on('locationerror', onLocationError);
+
+map.locate({setView: true, maxZoom: 16});
+
 
 /* POINT OVERLAYS */
 // ways to load point map data from different sources: coordinates in the code, GeoJSON in local directory, remote GeoJSON and JSON
