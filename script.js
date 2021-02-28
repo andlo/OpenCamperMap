@@ -124,12 +124,17 @@ $.getJSON("src/sanitetsstation.geojson", function (data){
     }
   }); // insert ".addTo(map)" to display layer by default
   //controlLayers.addOverlay(geoJsonLayer, 'Sanitet');
-  controlLayers.addOverlay(geoJsonLayer, 'Sanitet')
+  controlLayers.addOverlay(geoJsonLayer, 'Sanitet').addTo(map)
 });
 
 
 
 $.getJSON("src/AUTOCAMPER_KORTET.geojson", function (data){
+  var starIcon = L.icon({
+    iconUrl: 'src/star-18.png',
+    iconRetinaUrl: 'src/star-18@2x.png',
+    iconSize: [18, 18]
+  });
   var geoJsonLayer = L.geoJson(data, {
     pointToLayer: function( feature, latlng) {
       var marker = L.marker(latlng,{icon: iconStyle});
@@ -138,7 +143,7 @@ $.getJSON("src/AUTOCAMPER_KORTET.geojson", function (data){
     }
   }); // insert ".addTo(map)" to display layer by default
   //controlLayers.addOverlay(geoJsonLayer, 'Sanitet');
-  controlLayers.addOverlay(geoJsonLayer, 'Autocamperkortet')
+  controlLayers.addOverlay(geoJsonLayer, 'Autocamperkortet').addTo(map)
 });
 
 
