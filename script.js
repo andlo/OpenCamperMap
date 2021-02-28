@@ -111,6 +111,24 @@ $.getJSON("src/points.geojson", function (data){
   }); // insert ".addTo(map)" to display layer by default
   controlLayers.addOverlay(geoJsonLayer, 'Circles');
 });
+// load GeoJSON point data and clickable circles from local directory
+$.getJSON("src/sanitetsstation.geojson", function (data){
+  var geoJsonLayer = L.geoJson(data, {
+    pointToLayer: function( feature, latlng) {
+      var circle = L.circleMarker(latlng, {
+        radius: 8,
+        fillColor: "#ccccff",
+        color: "#0000cc",
+        weight: 2,
+        opacity: 1,
+        fillOpacity: 0.7
+      });
+      circle.bindPopup(feature.properties.Location); // replace 'Location' with properties data label from your GeoJSON file
+      return circle;
+    }
+  }); // insert ".addTo(map)" to display layer by default
+  controlLayers.addOverlay(geoJsonLayer, 'Circles');
+});
 
 // load GeoJSON point data and clickable icons from local directory, using jQuery function (symbolized by $)
 $.getJSON("src/points.geojson", function (data){
