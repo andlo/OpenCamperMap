@@ -70,7 +70,7 @@ function onLocationError(e) {
 map.on('locationfound', onLocationFound);
 map.on('locationerror', onLocationError);
 
-map.locate({setView: true, maxZoom: 16});
+map.locate({setView: true, maxZoom: 160});
 
 
 /* POINT OVERLAYS */
@@ -123,7 +123,8 @@ $.getJSON("src/sanitetsstation.geojson", function (data){
       return marker;
     }
   }); // insert ".addTo(map)" to display layer by default
-  controlLayers.addOverlay(geoJsonLayer, 'Sanitet');
+  //controlLayers.addOverlay(geoJsonLayer, 'Sanitet');
+  controlLayers.addOverlay(geoJsonLayer, 'Sanitet')
 });
 
 
